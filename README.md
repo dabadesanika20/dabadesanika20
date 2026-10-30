@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sanika Dabade!<br><br>🎓 Computer Engineering Student  <br>💻 Interested in Web Development and Software Engineering  <br>🌱 Currently learning Java, C++, DBMS, Git, and GitHub  <br>🚀 Building projects to improve my programming and problem-solving skills  <br>🤝 Interested in collaborating on projects and learning new technologies  <br>📫 Connect with me on GitHub!
+👋 Hi, I'm Sanika Dabade!<br><br>🎓 Computer Engineering Student  <br>💻 Interested in Web Development and Software Engineering  <br>🌱 Currently learning Java, DBMS, Git, and GitHub  <br>🚀 Building projects to improve my programming and problem-solving skills  <br>🤝 Interested in collaborating on projects and learning new technologies  <br>📫 Connect with me on GitHub!
 
 
 ## 🌐 Socials:
